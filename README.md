@@ -12,3 +12,5 @@
 # my-first-devops-project
 Мой первый DevOps‑проект для практики
 ## Это правка из main (конкурирующая)
+=======
+## Это правка из ветки feature/conflict-demo
