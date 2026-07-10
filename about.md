@@ -1,3 +1,3 @@
-About This Project
+# About This Project
 
-This is simple project to practice Git and DevOps fundamentals.
+This is a practice project to learn Git.
