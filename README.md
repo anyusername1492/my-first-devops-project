@@ -1,5 +1,7 @@
 ## Project Progress
-### Completed:
+
+### Completed
+
 - [x] Create repository
 - [x] Setup SSH key
 - [ ] Create a new branch
