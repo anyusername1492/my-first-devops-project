@@ -2,6 +2,7 @@
 
 ## Project Progress
 ### Completed:
+
 - [x] Create repository
 
 ### Last updated
