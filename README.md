@@ -13,3 +13,5 @@ June 20, 20241111111111111111111111111111111111111111111111111111111111111111111
 - [Markdownlint rules](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md)
 
 ## Это правка из main (конкурирующая)
+
+<!-- Trigger CI: fix WIP issue -->
