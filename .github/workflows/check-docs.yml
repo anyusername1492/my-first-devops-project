@@ -66,3 +66,11 @@ jobs:
 
       - name: Check all links in Markdown files
         run: find . -name "*.md" -type f -print0 | xargs -0 -n 1 markdown-link-check --quiet
+      - name: Check that README has a top-level heading
+        run: |
+          if ! grep -q "^#" README.md; then
+            echo "❌ README.md does not contain a top-level heading (#)"
+            exit 1
+          else
+            echo "✅ README.md contains a top-level heading"
+          fi
