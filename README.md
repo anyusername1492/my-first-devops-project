@@ -1,6 +1,5 @@
 # my-first-devops-project
 
-
 ## Project Progress
 ### Completed:
 
